@@ -73,7 +73,7 @@ namespace Plane_Tickets
 
             if (fromCity == toCity)
             {
-                resultLabel.Text = "ERROR! Please Select 2 cities thar are not the same.";
+                resultLabel.Text = "ERROR! Please Select 2 cities that are not the same.";
                 return;
             }
 
